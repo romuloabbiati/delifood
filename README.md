@@ -1,4 +1,4 @@
-<h1>Sacola API</h1>
+<h1>DeliFood API</h1>
 <p>Sacola API para Servir uma Aplicação com Domínio de Delivery</p>
 <p align="center">
 <a href="https://docs.google.com/presentation/d/1O_lCZFiuU9MOsot-pJv2lb7kKrRs4ykW/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 1</a> ♥ 
@@ -90,15 +90,14 @@ No Terminal/Console:
 
 <h3>Autor</h3>
 
-<a href="https://www.linkedin.com/in/cami-la/">
+<a href="https://www.linkedin.com/in/romulo-hip%C3%B3lito-abbiati-73b9b696/?locale=en_US">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64323124?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Camila Cavalcante</b></sub></a> <a href="https://www.instagram.com/camimi_la/" title="Instagram"></a>
+ <sub><b>Rômulo Hipólito Abbiati</b></sub></a> <a href="https://www.instagram.com/romulohipolitoabbiati/" title="Instagram"></a>
 
-Feito com ❤️ por Cami-la 👋🏽 Entre em contato!
+Made by Rômulo Abbiati 👋🏽 Contact Details
 
-[![Linkedin Badge](https://img.shields.io/badge/-Camila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cami-la/)](https://www.linkedin.com/in/cami-la/)
-[![Gmail Badge](https://img.shields.io/badge/-camiladsantoscavalcante@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiladsantoscavalcante@gmail.com)](mailto:camiladsantoscavalcante@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Camila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulo-hip%C3%B3lito-abbiati-73b9b696/?locale=en_US)](https://www.linkedin.com/in/romulo-hip%C3%B3lito-abbiati-73b9b696/?locale=en_US)
 <hr>
 <h3>Contribuindo</h3>
 
