@@ -90,9 +90,6 @@ No Terminal/Console:
 
 <h3>Autor</h3>
 
-<a href="https://www.linkedin.com/in/romulo-hip%C3%B3lito-abbiati-73b9b696/?locale=en_US">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64323124?v=4" width="100px;" alt=""/>
- <br />
  <sub><b>Rômulo Hipólito Abbiati</b></sub></a> <a href="https://www.instagram.com/romulohipolitoabbiati/" title="Instagram"></a>
 
 Made by Rômulo Abbiati 👋🏽 Contact Details
