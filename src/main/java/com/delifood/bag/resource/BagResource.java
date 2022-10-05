@@ -4,11 +4,13 @@ import com.delifood.bag.model.Item;
 import com.delifood.bag.model.Bag;
 import com.delifood.bag.resource.dto.ItemDTO;
 import com.delifood.bag.service.BagService;
+import io.swagger.annotations.Api;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
+@Api(value = "/delifood/bags")
 @RestController
-@RequestMapping(path = "/bags")
+@RequestMapping(path = "/delifood/bags")
 @RequiredArgsConstructor
 public class BagResource {
 
