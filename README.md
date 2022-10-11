@@ -1,15 +1,15 @@
 <h1>DeliFood API</h1>
-<p>Sacola API para Servir uma Aplicação com Domínio de Delivery</p>
+<p>DeliFood API serves an application with Delivery domain</p>
 
-<h3>Status do Projeto</h3>
-<p align="center"> Sacola API 💻 Em construção... </p>
+<h3>Project Status</h3>
+<p align="center"> DeliFood API 💻 Under construction... </p>
 
 <h3>Features</h3>
 
-- [x] Incluir itens na sacola<br>
-- [x] Visualizar sacola<br>
-- [x] Fechar sacola<br>
-- [ ] Excluir item da sacola<br>
+- [x] Add item to the bag/cart<br>
+- [x] See bag (shows all items added to the bag)<br>
+- [x] Close bag (one step before paying)<br>
+- [ ] Delete item from the bag<br>
 
 <h3>Demostração da Aplicação</h3>
 <p>Antes de começar, você precisará ter instalado em sua máquina as seguintes ferramentas:</p>
