@@ -1,6 +1,14 @@
 <h1>DeliFood API</h1>
 <p>DeliFood API serves an application with Delivery domain</p>
 
+# About the project
+
+https://dsmeta-abbiati.netlify.app/
+
+DSMeta is a full stack web and mobile browser built during the **DevSuperior Week**, this event is organised by [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+
+This application consists of a sales list of each seller. By clicking the red button, it is possible to send a SMS to let the seller know, for instance, how much was sold by that seller.
+
 <h3>Project Status</h3>
 <p align="center"> DeliFood API 💻 Under construction... </p>
 
@@ -11,12 +19,12 @@
 - [x] Close bag (one step before paying)<br>
 - [ ] Delete item from the bag<br>
 
-<h3>Demostração da Aplicação</h3>
-<p>Antes de começar, você precisará ter instalado em sua máquina as seguintes ferramentas:</p>
+<h3>How to run the app on your machine</h3>
+<p>First things first, you will need to install the following tools</p>
 <table>
 <tr>
-	<th>Ferramenta</th>
-	<th>Versão</th>
+	<th>Tool</th>
+	<th>Version</th>
 </tr>
 <tr>
 	<td>Java JDK</td>
@@ -35,26 +43,26 @@
 	<td>9.**</td>
 </tr>
 </table>
-<h6>** Visando facilitar a demostração da aplicação, recomendo instalar apenas o IntelliJ IDEA e rodar o projeto através da IDE **</h6>
+<h6>** To make your life easier, I recommend you install only IntelliJ IDEA and the project via IDE **</h6>
 
-No Terminal/Console:
+In the Console:
 <ol>
-	<li>Faça um clone do projeto na sua máquina: <code>git clone https://github.com/cami-la/sacola-api.git</code></li>
-	<li>Entre na pasta raiz do projeto: <code>cd sacola-api</code></li> 
-	<li>Rode o comando: <code>./gradlew bootrun</code></li>
-	<li>Com a aplicação "de pé", clique aqui: <a href="http://localhost:8081/swagger-ui/">http://localhost:8081/swagger-ui/</a></li>
+	<li>Git clone the project to your machine: <code>git clone https://github.com/romuloabbiati/delifood.git</code></li>
+	<li>Go to project's root folder: <code>cd delifood</code></li> 
+	<li>Run the command: <code>./gradlew bootrun</code></li>
+	<li>If the app is running without no errors at all, click here: <a href="http://localhost:8080/swagger-ui/">http://localhost:8080/swagger-ui/</a></li>
 </ol>
 
-<a href="https://drive.google.com/file/d/1-FTY7jRfYbqVNQi-B7Dvn8p6wjnzf2f6/view?usp=sharing"> 🚀 Collection Sacola API - Postman</a><br>
+<a href="https://drive.google.com/file/d/1-FTY7jRfYbqVNQi-B7Dvn8p6wjnzf2f6/view?usp=sharing"> 🚀 Collection DeliFood API - Postman</a><br>
 
-<img src="https://i.imgur.com/UBHcWKt.png" alt="Sacola API Swagger UI">
+<img src="https://github.com/romuloabbiati/assets/blob/main/deliFood-api.jpg" alt="Sacola API Swagger UI">
 
-<h3>Tecnologias Utilizadas</h3>
+<h3>Frameworks used</h3>
 
 <table>
 <tr>
-	<th>Dependência</th>
-	<th>Versão</th>
+	<th>Dependency</th>
+	<th>Version</th>
 </tr>
 <tr>
 	<td>spring initialzr</td>
@@ -82,7 +90,7 @@ No Terminal/Console:
 </tr>
 </table>
 
-<h3>Autor</h3>
+<h3>Author</h3>
 
  <h4><b>Rômulo Hipólito Abbiati</b></h4> <a href="https://www.instagram.com/romulohipolitoabbiati/" title="Instagram"></a>
 
@@ -90,13 +98,3 @@ Made by Rômulo Abbiati 👋🏽 Contact Details
 
 [![Linkedin Badge](https://img.shields.io/badge/-Romulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulo-hip%C3%B3lito-abbiati-73b9b696/?locale=en_US)](https://www.linkedin.com/in/romulo-hip%C3%B3lito-abbiati-73b9b696/?locale=en_US)
 <hr>
-<h3>Contribuindo</h3>
-
-Este repositório foi criado para fins de estudo, então contribua com ele.<br>
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identifique com o conteúdo, não deixe de compatilhar.
-
-Se possível:
-
-⭐️  Star o projeto
-
-🐛 Encontrar e relatar issues
