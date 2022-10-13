@@ -3,11 +3,9 @@
 
 # About the project
 
-https://dsmeta-abbiati.netlify.app/
+DeliFood API is a back end app that serves an application with Delivery domain. Built during the **iFOOD DEV WEEK**, this event is organised by [DevSuperior]([https://devsuperior.com](https://www.dio.me/dev-week/ifood/ifood-developer) "DIO's site").
 
-DSMeta is a full stack web and mobile browser built during the **DevSuperior Week**, this event is organised by [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-This application consists of a sales list of each seller. By clicking the red button, it is possible to send a SMS to let the seller know, for instance, how much was sold by that seller.
+This application mimics the bag or cart of a delivery application such as Deliveroo, Uber Eats. It is possible to display items added to the bag, add new item and close the bag.
 
 <h3>Project Status</h3>
 <p align="center"> DeliFood API 💻 Under construction... </p>
